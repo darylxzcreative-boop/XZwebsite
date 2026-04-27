@@ -1073,7 +1073,20 @@ section.lazy-placeholder:after {
   background-color: #ffffff;
 }
 .cid-vhZAEZSjSD .mbr-section-subtitle {
-  color: #767676;
+  color: #000000;
+  text-align: center;
+}
+.cid-vhZMEVZqTL {
+  background: #ffffff;
+}
+.cid-vhZMEVZqTL .video-block {
+  margin: auto;
+  width: 100% !important;
+}
+@media (max-width: 768px) {
+  .cid-vhZMEVZqTL .video-block {
+    width: 100% !important;
+  }
 }
 .cid-vhZCFE7yWG {
   padding-top: 90px;
